@@ -1,3 +1,5 @@
+package com.lti.entity;
+
 import java.util.*;
 public class ClientApp {
 	
